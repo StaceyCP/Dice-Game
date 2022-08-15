@@ -1,0 +1,46 @@
+body{
+    background-color: #393E46;
+    margin: 0px;
+}
+
+footer{
+    color: blanchedalmond;
+    font-family: 'Indie Flower', cursive;
+    font-size: 1.25rem;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    width: 70%
+}
+
+.container h1 {
+    color: blanchedalmond;
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+    margin: 30px;
+    text-shadow: 5px 0 #232931;
+}
+
+.dice {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.dice__container {
+    margin: 5px;
+}
+
+.dice__container p {
+    color: blanchedalmond;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+
+.dice__container img {
+    width: 80%;
+}
